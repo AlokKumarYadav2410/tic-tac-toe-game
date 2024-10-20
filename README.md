@@ -7,7 +7,7 @@ Welcome to the Tic Tac Toe game project! This project is a simple implementation
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
 - [How to Play](#how-to-play)
-- [Project Structure](project-structure)
+- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
   
