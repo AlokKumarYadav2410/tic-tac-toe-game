@@ -1,15 +1,15 @@
-# Tic Tac Toe Game
+# Tic Tac Toe Game ⭕❌
 Welcome to the Tic Tac Toe game project! This project is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript. The game features dynamic DOM manipulation to update the game board and display the game status.
 
 ## Table of Contents
-- Introduction
-- Features
-- Technologies Used
-- Setup
-- How to Play
-- Project Structure
-- Contributing
-- License
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup](#setup)
+- [How to Play](#how-to-play)
+- [Project Structure](project-structure)
+- [Contributing](#contributing)
+- [License](#license)
   
 ## Introduction
 This project is a web-based Tic Tac Toe game where two players can play against each other. The game board is dynamically updated using JavaScript, and the game status is displayed to inform players of the current state of the game (e.g., who won, or if it's a draw).
@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-    git clone <repository-url>
+   git clone https://github.com/AlokKumarYadav2410/tic-tac-toe-game.git
 
 2. Navigate to the project directory:
    ```bash
@@ -62,5 +62,5 @@ tic-tac-toe/
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/AlokKumarYadav2410/tic-tac-toe-game/blob/4ad35d2e6d59b8304e049cf8b58e9f5a223a1f75/LICENSE.md) file for more details.
 
