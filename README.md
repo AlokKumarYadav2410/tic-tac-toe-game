@@ -14,6 +14,11 @@ Welcome to the Tic Tac Toe game project! This project is a simple implementation
 ## Introduction
 This project is a web-based Tic Tac Toe game where two players can play against each other. The game board is dynamically updated using JavaScript, and the game status is displayed to inform players of the current state of the game (e.g., who won, or if it's a draw).
 
+<img src="images/main_screen.png" alt="main_screen" width="200px" height="150px">
+<img src="images/playing.png" alt="main_screen" width="200px" height="150px">
+<img src="images/draw.png" alt="main_screen" width="200px" height="150px">
+<img src="images/winner.png" alt="main_screen" width="200px" height="150px">
+
 ## Features
 - Interactive game board
 - Dynamic DOM manipulation using JavaScript
